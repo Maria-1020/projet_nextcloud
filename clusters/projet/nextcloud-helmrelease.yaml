@@ -13,4 +13,4 @@ spec:
         name: nextcloud
         namespace: nextcloud
   values:
-    file: ./clusters/values.yaml
+    file: ./clusters/projet/values.yaml
